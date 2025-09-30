@@ -66,7 +66,7 @@ public class SpawnManager : MonoBehaviour
     }
 }
 ```
-# DETETC COLLIDER:
+# DETECT COLLIDER:
 ```
 using System.Collections;
 using System.Collections.Generic;
